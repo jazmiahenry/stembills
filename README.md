@@ -1,4 +1,4 @@
-# stembills
+# US STEM Bills Passed since 1973
 
 ## Welcome! This is just a notebook of a few fun and interactive visualizations on STEM bills passed and codified into law since the 93rd Congress (1973).
 
